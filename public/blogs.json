@@ -1,0 +1,48 @@
+[
+    {
+      "id": "001",
+      "cover_title": "The Secret Garden",
+      "author": "Mary Jane",
+      "author_img": "mary_jane.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": "45",
+      "hashtags": ["fiction", "classic", "gardening"]
+    },
+    {
+      "id": "002",
+      "cover_title": "The Lost Treasure",
+      "author": "John Smith",
+      "author_img": "john_smith.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": "30",
+      "hashtags": ["adventure", "mystery", "treasure"]
+    },
+    {
+      "id": "003",
+      "cover_title": "Into the Abyss",
+      "author": "Jane Doe",
+      "author_img": "jane_doe.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": "60",
+      "hashtags": ["horror", "suspense", "dark"]
+    },
+    {
+      "id": "004",
+      "cover_title": "The Cosmic Odyssey",
+      "author": "Max Power",
+      "author_img": "max_power.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": "75",
+      "hashtags": ["science-fiction", "space", "exploration"]
+    },
+    {
+      "id": "005",
+      "cover_title": "Cooking with Love",
+      "author": "Chef Cooksalot",
+      "author_img": "chef_cooksalot.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": "40",
+      "hashtags": ["cooking", "recipes", "foodie"]
+    }
+  ]
+  
